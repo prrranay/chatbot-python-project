@@ -113,4 +113,4 @@ The project demonstrates the potential of AI and ML in developing effective chat
 
 ## Acknowledgements
 
-We extend our gratitude to our project guide Dr. Vaka Murali Mohan, Principal & Professor of Computer Science & Engineering, and the faculty members of the Computer Science & Engineering Department, Malla Reddy Institute of Technology & Science, for their guidance and support throughout this project.
+We extend our gratitude to our project guide Dr. Vaka Murali Mohan, Principal & Professor of Malla Reddy Institute of Technology & Science, and the faculty members of the Computer Science & Engineering Department, Malla Reddy Institute of Technology & Science, for their guidance and support throughout this project.
