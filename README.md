@@ -106,7 +106,7 @@ The project demonstrates the potential of AI and ML in developing effective chat
 
 ## Authors
 
-- D. Pranay Kumar
+- [D. Pranay Kumar](https://github.com/prrranay)
 - Ch. Nandeeshwar (22S15A0510)
 - Sk. Umer (21S11A05C0)
 - Y. Manjeet Kumar (22S15A0508)
