@@ -1,6 +1,6 @@
 # Chatbot Using AI & ML
 
-A mini-project report submitted to JNTU Hyderabad in partial fulfillment of the requirements for the award of the degree **Bachelor of Technology** in **Computer Science and Engineering**.
+A mini-project submitted to JNTU Hyderabad in partial fulfillment of the requirements for the award of the degree **Bachelor of Technology** in **Computer Science and Engineering**.
 
 ## Project Overview
 
