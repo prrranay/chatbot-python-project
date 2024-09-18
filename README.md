@@ -65,7 +65,7 @@ The system architecture consists of a deep learning model trained with relevant 
 2. **Setup**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-username/your-repo.git
+     git clone https://github.com/prrranay/chatbot-python-project
      ```
    - Install the required Python packages:
      ```bash
