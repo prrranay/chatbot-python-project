@@ -37,9 +37,7 @@ Our proposed chatbot system uses deep learning and NLP to provide more accurate 
 
 The system consists of the following modules:
 
-1. **New User Registration:** Allows users to sign up for the application.
-2. **Login:** Provides access to the chatbot for registered users.
-3. **Chatbot Interface:** Facilitates user interaction with the chatbot.
+**Chatbot Interface:** Facilitates user interaction with the chatbot.
 
 ### System Architecture
 
